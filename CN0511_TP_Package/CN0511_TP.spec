@@ -6,7 +6,7 @@ block_cipher = None
 
 a = Analysis(['CN0511_TP.py'],
              pathex=['/home/analog/CN0511_TP_Package'],
-             binaries=[],
+             binaries=['/home/analog/CN0511_TP_Package/libiio_binary','.'],
              datas=[],
              hiddenimports=[],
              hookspath=[],
