@@ -1,0 +1,10 @@
+('/home/analog/CN0511_TP_Package/build/CN0511_TP/pyadi_iio-0.0.6-py3.7.egg',
+ None,
+ {'*.abi3.so',
+  '*.cpython-37m-arm-linux-gnueabihf.so',
+  '*.py',
+  '*.pyc',
+  '*.so',
+  'EGG-INFO'},
+ 'DATA',
+ [])
